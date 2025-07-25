@@ -1,0 +1,659 @@
+Data Source,Degrees
+Process,121
+File,102
+Network Traffic,93
+Command,87
+Application Log,36
+Internet Scan,25
+Windows Registry,21
+User Account,21
+Logon Session,19
+Module,17
+Active Directory,13
+Cloud Service,9
+Instance,7
+Script,6
+Malware Repository,6
+Sensor Health,6
+Driver,5
+Drive,5
+Firmware,5
+Cloud Storage,4
+Service,3
+Web Credential,3
+Network Share,3
+Scheduled Job,3
+Domain Name,3
+Serverless,2
+Digital Certificates,2
+Certificate,2
+Malware,2
+Domain Account,2
+Local Account,2
+Social Media Accounts,2
+Persona,2
+Group,2
+Spearphishing Link,2
+Spearphishing Attachment,2
+Code Signing Certificates,2
+Virtual Private Server,2
+Domains,2
+Image,2
+Firewall,2
+Server,2
+Spearphishing Voice,2
+Web Services,2
+Cloud Account,2
+Steganography,2
+Snapshot,2
+Extra Window Memory Injection,1
+Scheduled Task,1
+Socket Filters,1
+Archive via Utility,1
+VNC,1
+Windows Management Instrumentation,1
+Screen Capture,1
+Fileless Storage,1
+Boot or Logon Initialization Scripts,1
+Adversary-in-the-Middle,1
+System Owner/User Discovery,1
+Acquire Infrastructure,1
+Rundll32,1
+Container and Resource Discovery,1
+Pod,1
+Standard Encoding,1
+Embedded Payloads,1
+Pluggable Authentication Modules,1
+Revert Cloud Instance,1
+Gather Victim Host Information,1
+Keylogging,1
+File/Path Exclusions,1
+Linux and Mac File and Directory Permissions Modification,1
+Password Guessing,1
+PubPrn,1
+OS Credential Dumping,1
+Shared Modules,1
+Data from Configuration Repository,1
+Disk Structure Wipe,1
+Direct Network Flood,1
+Path Interception by PATH Environment Variable,1
+Sharepoint,1
+Direct Volume Access,1
+Modify Cloud Resource Hierarchy,1
+Email Hiding Rules,1
+External Defacement,1
+Encrypted/Encoded File,1
+OS Exhaustion Flood,1
+Rootkit,1
+PowerShell Profile,1
+JavaScript,1
+Lifecycle-Triggered Deletion,1
+Audio Capture,1
+Create or Modify System Process,1
+External Remote Services,1
+LC_LOAD_DYLIB Addition,1
+Steal Web Session Cookie,1
+Container Orchestration Job,1
+Domain Generation Algorithms,1
+Double File Extension,1
+Bypass User Account Control,1
+SMS Pumping,1
+Internet Connection Discovery,1
+Sudo and Sudo Caching,1
+Archive via Custom Method,1
+Modify Cloud Compute Infrastructure,1
+Network Devices,1
+Malvertising,1
+Permission Groups Discovery,1
+Email Collection,1
+Security Account Manager,1
+System Firmware,1
+Search Victim-Owned Websites,1
+Cloud Groups,1
+Services Registry Permissions Weakness,1
+Application Exhaustion Flood,1
+Compromise Software Dependencies and Development Tools,1
+Disk Wipe,1
+DNS,1
+Cloud Instance Metadata API,1
+Securityd Memory,1
+Group Policy Discovery,1
+Bootkit,1
+Data from Removable Media,1
+Mavinject,1
+Local Data Staging,1
+Match Legitimate Resource Name or Location,1
+Stored Data Manipulation,1
+Password Cracking,1
+Local Email Collection,1
+Keychain,1
+Boot or Logon Autostart Execution,1
+LSA Secrets,1
+Weaken Encryption,1
+SAML Tokens,1
+Masquerade File Type,1
+Service Stop,1
+Device Driver Discovery,1
+Active Setup,1
+Hide Artifacts,1
+Dynamic Data Exchange,1
+Malicious File,1
+Publish/Subscribe Protocols,1
+Hardware,1
+Taint Shared Content,1
+Trust Modification,1
+Symmetric Cryptography,1
+Browser Extensions,1
+Safe Mode Boot,1
+TFTP Boot,1
+Windows Service,1
+Fast Flux DNS,1
+System Checks,1
+Cron,1
+Domain Groups,1
+Clear Linux or Mac System Logs,1
+Application or System Exploitation,1
+Office Application Startup,1
+InstallUtil,1
+SSH,1
+Additional Cloud Roles,1
+Print Processors,1
+Stripped Payloads,1
+Component Object Model,1
+DLL,1
+Automated Collection,1
+Clipboard Data,1
+Proc Filesystem,1
+Password Managers,1
+Gatekeeper Bypass,1
+ESXi Administration Command,1
+Drive-by Target,1
+System Service Discovery,1
+Network Sniffing,1
+Code Signing,1
+Data from Cloud Storage,1
+Runtime Data Manipulation,1
+Credentials in Registry,1
+Network Share Discovery,1
+Peripheral Device Discovery,1
+Break Process Trees,1
+Windows File and Directory Permissions Modification,1
+Add-ins,1
+Transport Agent,1
+System Information Discovery,1
+Application Layer Protocol,1
+AppDomainManager,1
+Remote Data Staging,1
+Additional Container Cluster Roles,1
+Scheduled Task/Job,1
+Msiexec,1
+Reflection Amplification,1
+Password Filter DLL,1
+Terminal Services DLL,1
+AppleScript,1
+Software Extensions,1
+Service Exhaustion Flood,1
+Compromise Hardware Supply Chain,1
+Native API,1
+Ccache Files,1
+Clear Network Connection History and Configurations,1
+AS-REP Roasting,1
+AutoHotKey & AutoIT,1
+Reduce Key Space,1
+Clear Command History,1
+Indirect Command Execution,1
+Replication Through Removable Media,1
+Data from Local System,1
+Deobfuscate/Decode Files or Information,1
+Outlook Rules,1
+Impair Defenses,1
+Additional Local or Domain Groups,1
+Upload Malware,1
+Supply Chain Compromise,1
+Exploit Public-Facing Application,1
+Steal or Forge Kerberos Tickets,1
+Credentials from Password Stores,1
+Exfiltration Over Web Service,1
+Remote Access Tools,1
+Archive via Library,1
+Thread Execution Hijacking,1
+Masquerading,1
+Application Shimming,1
+Unsecured Credentials,1
+Port Monitors,1
+Clear Mailbox Data,1
+Login Hook,1
+Content Injection,1
+Process Injection,1
+Exfiltration Over Webhook,1
+Traffic Signaling,1
+Direct Cloud VM Connections,1
+System Binary Proxy Execution,1
+Timestomp,1
+Evil Twin,1
+Reflective Code Loading,1
+Wi-Fi Discovery,1
+Mutual Exclusion,1
+Ignore Process Interrupts,1
+Escape to Host,1
+Shortcut Modification,1
+Application Window Discovery,1
+Systemctl,1
+Email Account,1
+Time Based Evasion,1
+CMSTP,1
+SSH Hijacking,1
+Disable Windows Event Logging,1
+Scheduled Transfer,1
+SMB/Windows Admin Shares,1
+Implant Internal Image,1
+Protocol Tunneling,1
+Control Panel,1
+Network Address Translation Traversal,1
+Upload Tool,1
+Security Support Provider,1
+Overwrite Process Arguments,1
+Use Alternate Authentication Material,1
+Exfiltration Over Other Network Medium,1
+Network Device Configuration Dump,1
+Gather Victim Identity Information,1
+Disable or Modify System Firewall,1
+Archive Collected Data,1
+SIP and Trust Provider Hijacking,1
+Browser Session Hijacking,1
+Remote Services,1
+Mail Protocols,1
+Hybrid Identity,1
+Vulnerability Scanning,1
+Cloud API,1
+Electron Applications,1
+Disable or Modify Linux Audit System,1
+Rogue Domain Controller,1
+Code Signing Policy Modification,1
+Deploy Container,1
+Container,1
+Modify Registry,1
+Launch Daemon,1
+Cloud Infrastructure Discovery,1
+Credentials from Web Browsers,1
+Path Interception by Search Order Hijacking,1
+Defacement,1
+Unused/Unsupported Cloud Regions,1
+DHCP Spoofing,1
+Remote Service Session Hijacking,1
+Bind Mounts,1
+Binary Padding,1
+Web Shell,1
+Group Policy Modification,1
+Browser Information Discovery,1
+Private Keys,1
+Windows Remote Management,1
+Exfiltration Over Bluetooth,1
+Default Accounts,1
+Time Providers,1
+Trap,1
+Dynamic Linker Hijacking,1
+Input Injection,1
+Communication Through Removable Media,1
+Clear Windows Event Logs,1
+LLMNR/NBT-NS Poisoning and SMB Relay,1
+File and Directory Permissions Modification,1
+LSASS Memory,1
+IDE Extensions,1
+Active Scanning,1
+Junk Code Insertion,1
+Abuse Elevation Control Mechanism,1
+Create Process with Token,1
+Setuid and Setgid,1
+Winlogon Helper DLL,1
+Distributed Component Object Model,1
+Password Spraying,1
+External Proxy,1
+Web Portal Capture,1
+Email Addresses,1
+Cached Domain Credentials,1
+SSH Authorized Keys,1
+Virtual Machine Discovery,1
+Image File Execution Options Injection,1
+Odbcconf,1
+Temporary Elevated Cloud Access,1
+Video Capture,1
+Process Doppelg?nging,1
+System Network Configuration Discovery,1
+Delete Cloud Instance,1
+Executable Installer File Permissions Weakness,1
+Accessibility Features,1
+Bandwidth Hijacking,1
+Account Discovery,1
+Proxy,1
+Command and Scripting Interpreter,1
+Indicator Blocking,1
+Extended Attributes,1
+Domain Trust Discovery,1
+Golden Ticket,1
+Automated Exfiltration,1
+Client Configurations,1
+Disable or Modify Cloud Firewall,1
+IDE Tunneling,1
+Right-to-Left Override,1
+SVG Smuggling,1
+Component Firmware,1
+Indicator Removal,1
+Exfiltration Over Symmetric Encrypted Non-C2 Protocol,1
+Office Template Macros,1
+Confluence,1
+Pass the Ticket,1
+Container Administration Command,1
+File and Directory Discovery,1
+Dynamic Resolution,1
+Masquerade Task or Service,1
+Asynchronous Procedure Call,1
+Traffic Duplication,1
+Plist File Modification,1
+JamPlus,1
+AppCert DLLs,1
+Email Forwarding Rule,1
+Data Staged,1
+Steal or Forge Authentication Certificates,1
+Device Registration,1
+System Network Connections Discovery,1
+Compromise Infrastructure,1
+Mark-of-the-Web Bypass,1
+Disable Crypto Hardware,1
+Pre-OS Boot,1
+Build Image on Host,1
+Portable Executable Injection,1
+Verclsid,1
+Compromise Accounts,1
+Launchctl,1
+Network Device CLI,1
+Bash History,1
+Downgrade Attack,1
+XPC Services,1
+Virtualization/Sandbox Evasion,1
+Web Service,1
+Credentials In Files,1
+DNS Calculation,1
+Mshta,1
+Login Items,1
+Stage Capabilities,1
+Link Target,1
+Multi-Stage Channels,1
+Financial Theft,1
+Execution Guardrails,1
+Cloud Storage Object Discovery,1
+Web Cookies,1
+Log Enumeration,1
+Token Impersonation/Theft,1
+Exfiltration to Code Repository,1
+Cloud Services,1
+Port Knocking,1
+LNK Icon Smuggling,1
+Steal Application Access Token,1
+Additional Cloud Credentials,1
+User Execution,1
+Internal Defacement,1
+Hidden Users,1
+Make and Impersonate Token,1
+Group Policy Preferences,1
+Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,1
+Process Discovery,1
+Impair Command History Logging,1
+Network Provider DLL,1
+Windows Management Instrumentation Event Subscription,1
+User Activity Based Checks,1
+Cloud Service Hijacking,1
+Software Deployment Tools,1
+Exfiltration Over C2 Channel,1
+Parent PID Spoofing,1
+Forge Web Credentials,1
+Multi-Factor Authentication Request Generation,1
+Compromise Host Software Binary,1
+Chat Messages,1
+PowerShell,1
+Change Default File Association,1
+VDSO Hijacking,1
+File Transfer Protocols,1
+Exploitation for Credential Access,1
+Emond,1
+One-Way Communication,1
+Exploitation of Remote Services,1
+Internal Spearphishing,1
+Services File Permissions Weakness,1
+Registry Run Keys / Startup Folder,1
+Trusted Relationship,1
+Local Groups,1
+Account Manipulation,1
+Exfiltration Over Alternative Protocol,1
+Kernel Modules and Extensions,1
+GUI Input Capture,1
+Tool,1
+Exfiltration over USB,1
+KernelCallbackTable,1
+Systemd Timers,1
+Phishing,1
+ROMMONkit,1
+Compiled HTML File,1
+Compute Hijacking,1
+Network Share Connection Removal,1
+Multi-hop Proxy,1
+Brute Force,1
+Unix Shell,1
+Outlook Forms,1
+Remote Access Hardware,1
+Disable or Modify Tools,1
+Data Manipulation,1
+Inter-Process Communication,1
+Data Obfuscation,1
+Data from Network Shared Drive,1
+Modify System Image,1
+Hijack Execution Flow,1
+Lua,1
+Indicator Removal from Tools,1
+Malicious Image,1
+Container Service,1
+Valid Accounts,1
+Non-Standard Port,1
+Process Hollowing,1
+Exploitation for Privilege Escalation,1
+Resource Forking,1
+Account Access Removal,1
+Credential Stuffing,1
+Obfuscated Files or Information,1
+WMI,1
+Multi-Factor Authentication,1
+Remote Email Collection,1
+IIS Components,1
+Invalid Code Signature,1
+Run Virtual Instance,1
+Polymorphic Code,1
+Password Policy Discovery,1
+Event Triggered Execution,1
+Unix Shell Configuration Modification,1
+Forced Authentication,1
+SID-History Injection,1
+Network Boundary Bridging,1
+Data Encrypted for Impact,1
+Subvert Trust Controls,1
+Elevated Execution with Prompt,1
+Encrypted Channel,1
+Authentication Package,1
+Regsvr32,1
+Exfiltration to Text Storage Sites,1
+Software,1
+Input Capture,1
+Customer Relationship Management Software,1
+Component Object Model Hijacking,1
+Compromise Software Supply Chain,1
+Rename Legitimate Utilities,1
+Bidirectional Communication,1
+Exploitation for Client Execution,1
+Wordlist Scanning,1
+Email Bombing,1
+Spoof Security Alerting,1
+Outlook Home Page,1
+Asymmetric Cryptography,1
+Exfiltration to Cloud Storage,1
+Lateral Tool Transfer,1
+Named Pipe,1
+Path Interception by Unquoted Path,1
+Install Digital Certificate,1
+Startup Items,1
+System Language Discovery,1
+Non-Application Layer Protocol,1
+DNS Server,1
+Cloud Application Integration,1
+Protocol or Service Impersonation,1
+Query Registry,1
+Data Transfer Size Limits,1
+Web Session Cookie,1
+Domain Accounts,1
+Regsvcs/Regasm,1
+Install Root Certificate,1
+Network Logon Script,1
+Endpoint Denial of Service,1
+Compile After Delivery,1
+System Location Discovery,1
+VBA Stomping,1
+BITS Jobs,1
+MSBuild,1
+Impersonation,1
+Modify Cloud Compute Configurations,1
+Domain Fronting,1
+ARP Cache Poisoning,1
+Disable or Modify Cloud Logs,1
+Security Software Discovery,1
+Hidden Window,1
+ClickOnce,1
+Python,1
+Relocate Malware,1
+Data Encoding,1
+AppInit DLLs,1
+Phishing for Information,1
+Resource Hijacking,1
+Establish Accounts,1
+Obtain Capabilities,1
+Screensaver,1
+Conditional Access Policies,1
+Create Cloud Instance,1
+Cloud Secrets Management Stores,1
+Code Repositories,1
+Transmitted Data Manipulation,1
+/etc/passwd and /etc/shadow,1
+Launch Agent,1
+System Services,1
+Windows Command Shell,1
+Proc Memory,1
+Patch System Image,1
+Silver Ticket,1
+Data from Information Repositories,1
+Clear Persistence,1
+Hypervisor CLI,1
+Windows Credential Manager,1
+Masquerade Account Name,1
+Hardware Additions,1
+Remote Desktop Software,1
+Server Software Component,1
+Data Destruction,1
+Non-Standard Encoding,1
+Domain Controller Authentication,1
+Transfer Data to Cloud Account,1
+HTML Smuggling,1
+Reversible Encryption,1
+Command Obfuscation,1
+File Deletion,1
+Drive-by Compromise,1
+Network Denial of Service,1
+Cloud Administration Command,1
+Installer Packages,1
+Scanning IP Blocks,1
+Template Injection,1
+RC Scripts,1
+Access Token Manipulation,1
+Multi-Factor Authentication Interception,1
+Software Packing,1
+Web Protocols,1
+Visual Basic,1
+Hidden File System,1
+Systemd Service,1
+Exclusive Control,1
+RDP Hijacking,1
+Create Account,1
+XDG Autostart Entries,1
+Email Spoofing,1
+Cloud Service Discovery,1
+Malicious Copy and Paste,1
+Remote System Discovery,1
+Network Service Discovery,1
+Software Discovery,1
+Cloud Service Dashboard,1
+Thread Local Storage,1
+Debugger Evasion,1
+Space after Filename,1
+Re-opened Applications,1
+SEO Poisoning,1
+Pass the Hash,1
+Exfiltration Over Physical Medium,1
+Ingress Tool Transfer,1
+SyncAppvPublishingServer,1
+Additional Email Delegate Permissions,1
+Serverless Execution,1
+TCC Manipulation,1
+Ptrace System Calls,1
+Power Settings,1
+Dynamic API Resolution,1
+Remote Desktop Protocol,1
+Logon Script (Windows),1
+ListPlanting,1
+Hide Infrastructure,1
+Domain or Tenant Policy Modification,1
+XSL Script Processing,1
+Hidden Files and Directories,1
+Create Snapshot,1
+Office Test,1
+Develop Capabilities,1
+NTDS,1
+SNMP (MIB Dump),1
+Malicious Link,1
+Application Access Token,1
+LSASS Driver,1
+Service Execution,1
+Cloud Accounts,1
+Environmental Keying,1
+Fallback Channels,1
+NTFS File Attributes,1
+Kerberoasting,1
+DCSync,1
+System Time Discovery,1
+At,1
+Dynamic-link Library Injection,1
+Modify Authentication Process,1
+Udev Rules,1
+Credential API Hooking,1
+Firmware Corruption,1
+Inhibit System Recovery,1
+Netsh Helper DLL,1
+Spearphishing via Service,1
+Internal Proxy,1
+System Script Proxy Execution,1
+Dead Drop Resolver,1
+Junk Data,1
+Spearphishing Service,1
+vSphere Installation Bundles,1
+Container API,1
+SQL Stored Procedures,1
+Network Device Authentication,1
+Disk Content Wipe,1
+Messaging Applications,1
+Exfiltration Over Unencrypted Non-C2 Protocol,1
+Compression,1
+Dylib Hijacking,1
+Downgrade System Image,1
+Local Accounts,1
+Wi-Fi Networks,1
+Exploitation for Defense Evasion,1
+Trusted Developer Utilities Proxy Execution,1
+System Shutdown/Reboot,1
+MMC,1
+Process Argument Spoofing,1
+COR_PROFILER,1
