@@ -1,0 +1,812 @@
+Source,Target
+Process,Extra Window Memory Injection
+Windows Registry,Scheduled Task
+Process,Socket Filters
+,Indicator Removal from Tools
+Process,Archive via Utility
+Process,VNC
+Network Traffic,Windows Management Instrumentation
+,Malicious Shell Modification
+Command,Screen Capture
+Windows Registry,Fileless Storage
+,Bootkit
+File,Boot or Logon Initialization Scripts
+Application Log,Adversary-in-the-Middle
+Active Directory,System Owner/User Discovery
+Internet Scan,Acquire Infrastructure
+Process,Rundll32
+Pod,Container and Resource Discovery
+Internet Scan,Serverless
+,Hidden Window
+,LC_LOAD_DYLIB Addition
+Network Traffic,Standard Encoding
+File,Embedded Payloads
+,Plist Modification
+File,Pluggable Authentication Modules
+Instance,Revert Cloud Instance
+,HISTCONTROL
+Internet Scan,Gather Victim Host Information
+,Digital Certificates
+Driver,Keylogging
+File,File/Path Exclusions
+Process,Linux and Mac File and Directory Permissions Modification
+User Account,Password Guessing
+Process,PubPrn
+,Purchase Technical Data
+Network Traffic,OS Credential Dumping
+Process,Shared Modules
+Network Traffic,Data from Configuration Repository
+Driver,Disk Structure Wipe
+Network Traffic,Direct Network Flood
+,Stored Data Manipulation
+File,Path Interception by PATH Environment Variable
+Logon Session,Sharepoint
+File,Direct Volume Access
+,File System Permissions Weakness
+,Artificial Intelligence
+Cloud Service,Modify Cloud Resource Hierarchy
+Command,Email Hiding Rules
+Application Log,External Defacement
+File,Encrypted/Encoded File
+,LLMNR/NBT-NS Poisoning and Relay
+,IP Addresses
+Network Traffic,OS Exhaustion Flood
+Drive,Rootkit
+File,PowerShell Profile
+Module,JavaScript
+,DNS
+,Systemd Service
+Cloud Storage,Lifecycle-Triggered Deletion
+,Elevated Execution with Prompt
+Process,Audio Capture
+Service,Create or Modify System Process
+Network Traffic,External Remote Services
+,Component Firmware
+Command,LC_LOAD_DYLIB Addition
+Process,Steal Web Session Cookie
+File,Container Orchestration Job
+Network Traffic,Domain Generation Algorithms
+File,Double File Extension
+Windows Registry,Bypass User Account Control
+,Timestomp
+Application Log,SMS Pumping
+Process,Internet Connection Discovery
+File,Sudo and Sudo Caching
+File,Archive via Custom Method
+Instance,Modify Cloud Compute Infrastructure
+Internet Scan,Network Devices
+Internet Scan,Malvertising
+Process,Permission Groups Discovery
+Logon Session,Email Collection
+Command,Security Account Manager
+,WHOIS
+Firmware,System Firmware
+Application Log,Search Victim-Owned Websites
+Command,Cloud Groups
+Windows Registry,Services Registry Permissions Weakness
+,DNS/Passive DNS
+Network Traffic,Application Exhaustion Flood
+,Rc.common
+File,Compromise Software Dependencies and Development Tools
+Certificate,Digital Certificates
+,DNS Server
+Driver,Disk Wipe
+Network Traffic,DNS
+User Account,Cloud Instance Metadata API
+Command,Securityd Memory
+Script,Group Policy Discovery
+File,Bootkit
+Command,Data from Removable Media
+,Code Signing
+Command,Mavinject
+,Cloud Instance Metadata API
+,Process Hollowing
+File,Local Data Staging
+File,Match Legitimate Resource Name or Location
+,Domain Fronting
+Internet Scan,Digital Certificates
+File,Stored Data Manipulation
+User Account,Password Cracking
+,SID-History Injection
+File,Local Email Collection
+Command,Keychain
+Process,Boot or Logon Autostart Execution
+Windows Registry,LSA Secrets
+,Port Monitors
+File,Weaken Encryption
+Web Credential,SAML Tokens
+,Spearphishing Link
+File,Masquerade File Type
+Process,Service Stop
+Malware Repository,Malware
+,Regsvcs/Regasm
+Command,Device Driver Discovery
+,Sudo Caching
+Process,Domain Account
+Command,Active Setup
+File,Hide Artifacts
+Process,Dynamic Data Exchange
+Process,Malicious File
+,Identify Business Tempo
+,Security Software Discovery
+Network Traffic,Publish/Subscribe Protocols
+Internet Scan,Hardware
+Network Share,Taint Shared Content
+Command,Trust Modification
+Network Traffic,Symmetric Cryptography
+Process,Local Account
+,Securityd Memory
+Persona,Social Media Accounts
+Windows Registry,Browser Extensions
+,Application Access Token
+Windows Registry,Safe Mode Boot
+,Screensaver
+Command,TFTP Boot
+Windows Registry,Windows Service
+Network Traffic,Fast Flux DNS
+Process,System Checks
+File,Cron
+Group,Domain Groups
+,Vulnerabilities
+Network Traffic,Spearphishing Link
+,Startup Items
+File,Clear Linux or Mac System Logs
+Application Log,Application or System Exploitation
+File,Office Application Startup
+Process,InstallUtil
+Application Log,Spearphishing Link
+Logon Session,SSH
+User Account,Additional Cloud Roles
+Windows Registry,Print Processors
+,Disabling Security Tools
+,Disk Structure Wipe
+Network Traffic,Spearphishing Attachment
+,Credentials in Registry
+File,Stripped Payloads
+Module,Component Object Model
+File,DLL
+User Account,Automated Collection
+Process,Clipboard Data
+Command,Proc Filesystem
+,Botnet
+Process,Password Managers
+,AppInit DLLs
+Process,Gatekeeper Bypass
+Application Log,ESXi Administration Command
+Internet Scan,Drive-by Target
+Command,System Service Discovery
+Command,Network Sniffing
+,Application Deployment Software
+File,Code Signing
+Cloud Service,Data from Cloud Storage
+File,Runtime Data Manipulation
+Process,Credentials in Registry
+Process,Network Share Discovery
+Process,Peripheral Device Discovery
+Process,Break Process Trees
+,Network Topology
+Malware Repository,Code Signing Certificates
+Command,Windows File and Directory Permissions Modification
+Windows Registry,Add-ins
+File,Transport Agent
+Process,System Information Discovery
+Network Traffic,Application Layer Protocol
+Module,AppDomainManager
+File,Remote Data Staging
+User Account,Additional Container Cluster Roles
+Scheduled Job,Scheduled Task/Job
+Module,Msiexec
+,Login Item
+,Network Trust Dependencies
+Sensor Health,Reflection Amplification
+Windows Registry,Password Filter DLL
+Module,Terminal Services DLL
+Command,AppleScript
+Process,Software Extensions
+Application Log,Service Exhaustion Flood
+Sensor Health,Compromise Hardware Supply Chain
+Process,Native API
+File,Ccache Files
+Process,Clear Network Connection History and Configurations
+Active Directory,AS-REP Roasting
+,Service Registry Permissions Weakness
+Internet Scan,Virtual Private Server
+Process,AutoHotKey & AutoIT
+File,Reduce Key Space
+Process,Clear Command History
+Command,Indirect Command Execution
+,Custom Cryptographic Protocol
+,Revert Cloud Instance
+File,Replication Through Removable Media
+Process,Data from Local System
+Process,Deobfuscate/Decode Files or Information
+Process,Outlook Rules
+File,Impair Defenses
+,Cloud Accounts
+,Email Accounts
+User Account,Additional Local or Domain Groups
+Internet Scan,Upload Malware
+Sensor Health,Supply Chain Compromise
+Network Traffic,Exploit Public-Facing Application
+Command,Steal or Forge Kerberos Tickets
+File,Credentials from Password Stores
+Network Traffic,Exfiltration Over Web Service
+Process,Remote Access Tools
+Domain Name,Domains
+Script,Archive via Library
+Process,Thread Execution Hijacking
+,Multilayer Encryption
+File,Masquerading
+File,Application Shimming
+Windows Registry,Unsecured Credentials
+Windows Registry,Port Monitors
+Application Log,Clear Mailbox Data
+File,Login Hook
+Network Traffic,Content Injection
+Process,Process Injection
+Application Log,Exfiltration Over Webhook
+,Bash History
+Network Traffic,Traffic Signaling
+Logon Session,Direct Cloud VM Connections
+,Credentials from Web Browsers
+Network Traffic,System Binary Proxy Execution
+,DLL Search Order Hijacking
+,New Service
+Process,Timestomp
+Network Traffic,Evil Twin
+Module,Reflective Code Loading
+Process,Wi-Fi Discovery
+Process,Mutual Exclusion
+Process,Ignore Process Interrupts
+Process,Escape to Host
+File,Shortcut Modification
+Process,Application Window Discovery
+Command,Systemctl
+,Standard Cryptographic Protocol
+Process,Email Account
+Process,Time Based Evasion
+,AppCert DLLs
+Network Traffic,CMSTP
+Process,SSH Hijacking
+Sensor Health,Disable Windows Event Logging
+Network Traffic,Scheduled Transfer
+Network Share,SMB/Windows Admin Shares
+Image,Implant Internal Image
+Network Traffic,Protocol Tunneling
+File,Control Panel
+Network Traffic,Network Address Translation Traversal
+Internet Scan,Upload Tool
+Command,Security Support Provider
+Process,Overwrite Process Arguments
+,Winlogon Helper DLL
+,Binary Padding
+Application Log,Use Alternate Authentication Material
+,Remote Desktop Protocol
+,Threat Intel Vendors
+Network Traffic,Exfiltration Over Other Network Medium
+Network Traffic,Network Device Configuration Dump
+Network Traffic,Gather Victim Identity Information
+,Authentication Package
+,Extra Window Memory Injection
+Firewall,Disable or Modify System Firewall
+Command,Archive Collected Data
+,Launchctl
+Windows Registry,SIP and Trust Provider Hijacking
+,Domain Generation Algorithms
+Process,Browser Session Hijacking
+Module,Remote Services
+Network Traffic,Mail Protocols
+File,Hybrid Identity
+Network Traffic,Vulnerability Scanning
+Command,Cloud API
+,Search Open Technical Databases
+Command,Electron Applications
+Process,Disable or Modify Linux Audit System
+Active Directory,Rogue Domain Controller
+Command,Code Signing Policy Modification
+Container,Deploy Container
+,File Deletion
+,Private Keys
+Windows Registry,Modify Registry
+Process,Launch Daemon
+Instance,Cloud Infrastructure Discovery
+Command,Credentials from Web Browsers
+Process,Path Interception by Search Order Hijacking
+Network Traffic,Defacement
+Instance,Unused/Unsupported Cloud Regions
+Network Traffic,DHCP Spoofing
+,AppleScript
+Network Traffic,Remote Service Session Hijacking
+File,Bind Mounts
+File,Binary Padding
+Application Log,Web Shell
+Command,Group Policy Modification
+Process,Browser Information Discovery
+Command,Private Keys
+Internet Scan,Server
+Process,Windows Remote Management
+Network Traffic,Exfiltration Over Bluetooth
+Logon Session,Default Accounts
+Process,Time Providers
+,Image File Execution Options Injection
+,Rundll32
+,Modify Existing Service
+File,Trap
+File,Dynamic Linker Hijacking
+User Account,Local Account
+Process,Input Injection
+Drive,Communication Through Removable Media
+Command,Clear Windows Event Logs
+,Email Accounts
+Service,LLMNR/NBT-NS Poisoning and SMB Relay
+Process,File and Directory Permissions Modification
+Process,LSASS Memory
+,At (Linux)
+Process,IDE Extensions
+,Hooking
+Network Traffic,Active Scanning
+File,Junk Code Insertion
+,Plist Modification
+Process,Abuse Elevation Control Mechanism
+Command,Create Process with Token
+Command,Setuid and Setgid
+Command,Winlogon Helper DLL
+,System Firmware
+Network Traffic,Distributed Component Object Model
+,Change Default File Association
+,Regsvr32
+User Account,Password Spraying
+Network Traffic,External Proxy
+File,Web Portal Capture
+Network Traffic,Email Addresses
+,Re-opened Applications
+,Indicator Blocking
+Application Log,Spearphishing Voice
+,Spearphishing Attachment
+Command,Cached Domain Credentials
+Command,SSH Authorized Keys
+Command,Virtual Machine Discovery
+,Kernel Modules and Extensions
+,Security Support Provider
+,Network Security Appliances
+Command,Image File Execution Options Injection
+Command,Odbcconf
+,Search Engines
+,LSASS Driver
+,Business Relationships
+User Account,Temporary Elevated Cloud Access
+Process,Video Capture
+,Gatekeeper Bypass
+,Software Packing
+File,Process Doppelgänging
+Command,System Network Configuration Discovery
+Instance,Delete Cloud Instance
+,Code Repositories
+Service,Executable Installer File Permissions Weakness
+Process,Accessibility Features
+Network Traffic,Bandwidth Hijacking
+,PowerShell Profile
+,SIP and Trust Provider Hijacking
+Process,Account Discovery
+Network Traffic,Proxy
+Script,Command and Scripting Interpreter
+Command,Indicator Blocking
+Process,Domain Account
+Command,Extended Attributes
+,Employee Names
+Process,Domain Trust Discovery
+Active Directory,Golden Ticket
+Command,Automated Exfiltration
+Internet Scan,Client Configurations
+Firewall,Disable or Modify Cloud Firewall
+Process,IDE Tunneling
+File,Right-to-Left Override
+Malware Repository,Malware
+File,SVG Smuggling
+Firmware,Component Firmware
+Scheduled Job,Indicator Removal
+Network Traffic,Exfiltration Over Symmetric Encrypted Non-C2 Protocol
+File,Office Template Macros
+Internet Scan,Virtual Private Server
+Logon Session,Confluence
+User Account,Pass the Ticket
+Command,Container Administration Command
+Command,File and Directory Discovery
+Network Traffic,Dynamic Resolution
+Scheduled Job,Masquerade Task or Service
+Process,Asynchronous Procedure Call
+Network Traffic,Traffic Duplication
+,Application Shimming
+Command,Plist File Modification
+Process,JamPlus
+Module,AppCert DLLs
+,CMSTP
+,Multi-hop Proxy
+Command,Email Forwarding Rule
+File,Data Staged
+Command,Steal or Forge Authentication Certificates
+Application Log,Device Registration
+Process,System Network Connections Discovery
+Internet Scan,Compromise Infrastructure
+File,Mark-of-the-Web Bypass
+File,Disable Crypto Hardware
+Drive,Pre-OS Boot
+Image,Build Image on Host
+Process,Portable Executable Injection
+Command,Verclsid
+Persona,Compromise Accounts
+Process,Launchctl
+,Botnet
+Command,Network Device CLI
+File,Bash History
+Command,Downgrade Attack
+Process,XPC Services
+Command,Virtualization/Sandbox Evasion
+Network Traffic,Web Service
+Command,Credentials In Files
+Network Traffic,DNS Calculation
+Process,Mshta
+Process,Login Items
+Internet Scan,Stage Capabilities
+Internet Scan,Link Target
+Network Traffic,Multi-Stage Channels
+Application Log,Financial Theft
+Process,Execution Guardrails
+Cloud Storage,Cloud Storage Object Discovery
+Logon Session,Web Cookies
+File,Log Enumeration
+Command,Token Impersonation/Theft
+Command,Exfiltration to Code Repository
+Logon Session,Cloud Services
+Network Traffic,Port Knocking
+File,LNK Icon Smuggling
+Internet Scan,Web Services
+Active Directory,Steal Application Access Token
+Network Traffic,Spearphishing Attachment
+User Account,Additional Cloud Credentials
+Instance,User Execution
+File,Internal Defacement
+File,Hidden Users
+Process,Make and Impersonate Token
+File,Group Policy Preferences
+,Control Panel Items
+Network Traffic,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol
+Command,Cloud Account
+Process,Process Discovery
+Sensor Health,Impair Command History Logging
+Windows Registry,Network Provider DLL
+File,Windows Management Instrumentation Event Subscription
+,CDNs
+Process,User Activity Based Checks
+,Input Prompt
+Cloud Service,Cloud Service Hijacking
+,Cloud Accounts
+Process,Software Deployment Tools
+Command,Exfiltration Over C2 Channel
+Process,Parent PID Spoofing
+,Gather Victim Org Information
+,Registry Run Keys / Startup Folder
+Web Credential,Forge Web Credentials
+User Account,Multi-Factor Authentication Request Generation
+File,Compromise Host Software Binary
+Application Log,Chat Messages
+Script,PowerShell
+,Shortcut Modification
+Process,Change Default File Association
+Process,VDSO Hijacking
+Network Traffic,File Transfer Protocols
+,Component Object Model Hijacking
+,Accessibility Features
+User Account,Exploitation for Credential Access
+File,Emond
+Network Traffic,One-Way Communication
+,Gather Victim Network Information
+Network Traffic,Exploitation of Remote Services
+,Parent PID Spoofing
+,Keychain
+Network Traffic,Internal Spearphishing
+,Sudo
+File,Services File Permissions Weakness
+Command,Registry Run Keys / Startup Folder
+Logon Session,Trusted Relationship
+User Account,Cloud Account
+Process,Local Groups
+,Search Open Websites/Domains
+Command,Account Manipulation
+,Mshta
+Cloud Storage,Exfiltration Over Alternative Protocol
+Command,Kernel Modules and Extensions
+Script,GUI Input Capture
+,Pass the Ticket
+Malware Repository,Tool
+Process,Exfiltration over USB
+Process,KernelCallbackTable
+,Search Closed Sources
+File,Systemd Timers
+File,Phishing
+Firmware,ROMMONkit
+File,Compiled HTML File
+Command,Compute Hijacking
+Network Traffic,Network Share Connection Removal
+Network Traffic,Multi-hop Proxy
+User Account,Brute Force
+Process,Unix Shell
+Application Log,Outlook Forms
+Drive,Remote Access Hardware
+,Dylib Hijacking
+Sensor Health,Disable or Modify Tools
+Process,Data Manipulation
+Module,Inter-Process Communication
+Network Traffic,Data Obfuscation
+Network Share,Data from Network Shared Drive
+Internet Scan,Web Services
+File,Modify System Image
+Windows Registry,Hijack Execution Flow
+Command,Lua
+Application Log,Indicator Removal from Tools
+Application Log,Malicious Image
+Command,Container Service
+Logon Session,Valid Accounts
+Network Traffic,Non-Standard Port
+Network Traffic,Social Media Accounts
+,DLL Side-Loading
+Process,Process Hollowing
+Driver,Exploitation for Privilege Escalation
+File,Resource Forking
+Active Directory,Account Access Removal
+Application Log,Credential Stuffing
+,Kerberoasting
+WMI,Obfuscated Files or Information
+Logon Session,Multi-Factor Authentication
+Application Log,Remote Email Collection
+File,IIS Components
+File,Invalid Code Signature
+Windows Registry,Run Virtual Instance
+,Trap
+Application Log,Polymorphic Code
+User Account,Password Policy Discovery
+Module,Event Triggered Execution
+Process,Unix Shell Configuration Modification
+File,Forced Authentication
+Active Directory,SID-History Injection
+Network Traffic,Network Boundary Bridging
+File,Data Encrypted for Impact
+,Disk Content Wipe
+Module,Subvert Trust Controls
+Process,Elevated Execution with Prompt
+,Firmware
+Network Traffic,Encrypted Channel
+,Password Filter DLL
+Command,Authentication Package
+Module,Regsvr32
+,Data Compressed
+Network Traffic,Exfiltration to Text Storage Sites
+,Credentials in Files
+Internet Scan,Software
+,Netsh Helper DLL
+File,Input Capture
+Application Log,Spearphishing Voice
+,Exploits
+,Social Media
+Logon Session,Customer Relationship Management Software
+Process,Component Object Model Hijacking
+,Credentials
+File,Compromise Software Supply Chain
+File,Rename Legitimate Utilities
+Network Traffic,Bidirectional Communication
+Process,Exploitation for Client Execution
+Network Traffic,Wordlist Scanning
+Application Log,Email Bombing
+Process,Spoof Security Alerting
+Application Log,Outlook Home Page
+Network Traffic,Asymmetric Cryptography
+Network Traffic,Exfiltration to Cloud Storage
+Named Pipe,Lateral Tool Transfer
+File,Path Interception by Unquoted Path
+Internet Scan,Install Digital Certificate
+,Local Job Scheduling
+,Setuid and Setgid
+Command,Startup Items
+,Web Shell
+,Process Doppelgänging
+,SSH Hijacking
+Process,System Language Discovery
+Network Traffic,Non-Application Layer Protocol
+,Pass the Hash
+File,Steganography
+Domain Name,DNS Server
+Active Directory,Cloud Application Integration
+Network Traffic,Protocol or Service Impersonation
+Process,Query Registry
+Network Traffic,Data Transfer Size Limits
+,Windows Remote Management
+Application Log,Web Session Cookie
+User Account,Domain Accounts
+Command,Regsvcs/Regasm
+,Web Session Cookie
+Command,Install Root Certificate
+Command,Network Logon Script
+Application Log,Endpoint Denial of Service
+Command,Compile After Delivery
+,Uncommonly Used Port
+Process,System Location Discovery
+File,VBA Stomping
+Command,BITS Jobs
+Command,MSBuild
+Application Log,Impersonation
+Cloud Service,Modify Cloud Compute Configurations
+,Bypass User Account Control
+,Runtime Data Manipulation
+Network Traffic,Domain Fronting
+Network Traffic,ARP Cache Poisoning
+Cloud Service,Disable or Modify Cloud Logs
+Process,Security Software Discovery
+File,Hidden Window
+,Transmitted Data Manipulation
+Process,ClickOnce
+Process,Python
+File,Relocate Malware
+,Identify Roles
+Network Traffic,Data Encoding
+Process,AppInit DLLs
+Network Traffic,Phishing for Information
+Cloud Service,Resource Hijacking
+Network Traffic,Establish Accounts
+Certificate,Obtain Capabilities
+File,Screensaver
+,Hidden Users
+Active Directory,Conditional Access Policies
+Instance,Create Cloud Instance
+,Compile After Delivery
+Cloud Service,Cloud Secrets Management Stores
+Application Log,Code Repositories
+Process,Transmitted Data Manipulation
+File,/etc/passwd and /etc/shadow
+File,Launch Agent
+Windows Registry,System Services
+Command,Windows Command Shell
+File,Proc Memory
+,Compiled HTML File
+,Acquire Access
+File,Patch System Image
+Logon Session,Silver Ticket
+Logon Session,Data from Information Repositories
+File,Clear Persistence
+Command,Hypervisor CLI
+,Clear Command History
+File,Windows Credential Manager
+User Account,Masquerade Account Name
+,Emond
+,Spearphishing via Service
+Network Traffic,Hardware Additions
+Network Traffic,Remote Desktop Software
+Network Traffic,Server Software Component
+Snapshot,Data Destruction
+Network Traffic,Non-Standard Encoding
+Logon Session,Domain Controller Authentication
+Cloud Storage,Transfer Data to Cloud Account
+File,HTML Smuggling
+Active Directory,Reversible Encryption
+File,Command Obfuscation
+,Install Root Certificate
+,Data Encrypted
+Command,File Deletion
+Application Log,Drive-by Compromise
+Network Traffic,Network Denial of Service
+Command,Cloud Administration Command
+Process,Installer Packages
+Network Traffic,Scanning IP Blocks
+,Hidden Files and Directories
+Network Traffic,Template Injection
+File,RC Scripts
+Process,Access Token Manipulation
+,Time Providers
+Driver,Multi-Factor Authentication Interception
+,Launch Agent
+File,Software Packing
+Internet Scan,Serverless
+Network Traffic,Web Protocols
+Module,Visual Basic
+Firmware,Hidden File System
+Command,Systemd Service
+Process,Exclusive Control
+Logon Session,RDP Hijacking
+Process,Create Account
+File,XDG Autostart Entries
+Internet Scan,Server
+Application Log,Email Spoofing
+Cloud Service,Cloud Service Discovery
+File,Malicious Copy and Paste
+,Space after Filename
+Command,Remote System Discovery
+Network Traffic,Network Service Discovery
+,Domain Properties
+Process,Software Discovery
+Logon Session,Cloud Service Dashboard
+Process,Thread Local Storage
+Process,Debugger Evasion
+File,Space after Filename
+Command,Re-opened Applications
+Internet Scan,SEO Poisoning
+Logon Session,Pass the Hash
+File,Exfiltration Over Physical Medium
+,DLL Side-Loading
+File,Ingress Tool Transfer
+Script,SyncAppvPublishingServer
+Group,Additional Email Delegate Permissions
+Malware Repository,Code Signing Certificates
+,Network Share Connection Removal
+Cloud Service,Serverless Execution
+Command,TCC Manipulation
+,Windows Management Instrumentation Event Subscription
+,Launch Daemon
+Process,Ptrace System Calls
+File,Power Settings
+Module,Dynamic API Resolution
+Network Traffic,Remote Desktop Protocol
+Command,Logon Script (Windows)
+Process,ListPlanting
+Internet Scan,Hide Infrastructure
+Active Directory,Domain or Tenant Policy Modification
+Module,XSL Script Processing
+,Scan Databases
+Process,Hidden Files and Directories
+Snapshot,Create Snapshot
+,Determine Physical Locations
+Windows Registry,Office Test
+Malware Repository,Develop Capabilities
+,Dynamic Data Exchange
+Command,NTDS
+Network Traffic,SNMP (MIB Dump)
+Network Traffic,Steganography
+File,Malicious Link
+Web Credential,Application Access Token
+Module,LSASS Driver
+Windows Registry,Service Execution
+User Account,Cloud Accounts
+Process,Environmental Keying
+Network Traffic,Fallback Channels
+Command,NTFS File Attributes
+Active Directory,Kerberoasting
+,NTFS File Attributes
+Active Directory,DCSync
+Process,System Time Discovery
+Command,At
+,Service Execution
+Process,Dynamic-link Library Injection
+,PowerShell
+,Exploits
+Application Log,Modify Authentication Process
+Process,Udev Rules
+Process,Credential API Hooking
+Firmware,Firmware Corruption
+Process,Inhibit System Recovery
+Command,Netsh Helper DLL
+Network Traffic,Spearphishing via Service
+Network Traffic,Internal Proxy
+Command,System Script Proxy Execution
+,Custom Command and Control Protocol
+Network Traffic,Dead Drop Resolver
+,InstallUtil
+Network Traffic,Junk Data
+Application Log,Spearphishing Service
+Command,vSphere Installation Bundles
+User Account,Container API
+Domain Name,Domains
+Application Log,SQL Stored Procedures
+File,Network Device Authentication
+Drive,Disk Content Wipe
+Application Log,Messaging Applications
+Network Traffic,Exfiltration Over Unencrypted Non-C2 Protocol
+File,Compression
+Module,Dylib Hijacking
+File,Downgrade System Image
+Logon Session,Local Accounts
+Network Traffic,Wi-Fi Networks
+Application Log,Exploitation for Defense Evasion
+Command,Trusted Developer Utilities Proxy Execution
+Process,System Shutdown/Reboot
+Command,MMC
+Process,Process Argument Spoofing
+,Windows Admin Shares
+Process,COR_PROFILER
